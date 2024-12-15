@@ -1,0 +1,6 @@
+../Core/Src/UART_LCD.c:19:6:LCD_Set_Cursor	24	static
+../Core/Src/UART_LCD.c:38:6:LCD_Write	16	static
+../Core/Src/UART_LCD.c:43:6:LCD_Setting	24	static
+../Core/Src/UART_LCD.c:51:6:LCD_SetRGB	32	static
+../Core/Src/UART_LCD.c:73:6:LCD_SetContrast	16	static
+../Core/Src/UART_LCD.c:79:6:LCD_Init	8	static
